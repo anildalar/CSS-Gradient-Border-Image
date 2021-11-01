@@ -1,0 +1,17 @@
+https://www.w3schools.com/cssref/css3_pr_border-image.asp
+https://www.w3schools.com/css/css_border.asp
+
+
+https://anildalar.github.io/CSS-Gradient-Border-Image/
+https://github.com/anildalar/CSS-Gradient-Border-Image
+
+https://www.w3schools.com/css/css3_gradients.asp
+
+https://www.digitalocean.com/community/tutorials/css-gradient-borders-pure-css
+
+https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
+
+
+Custom Attribute
+
+<element data-*="">Content</element>
